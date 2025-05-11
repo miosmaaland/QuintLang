@@ -10,3 +10,7 @@ To see the spec in different states, you can run "quint run Moreira.qnt", to see
 
 Note : Moreira.qnt is made by Gabriela Moreira, research engineer in Informal Systems.
 
+Hotstuff.tla is made by our supervisor Leander Jehl, and is to be found in his github repository : https://github.com/leandernikolaus/hotstuff-ivy
+
+
+
