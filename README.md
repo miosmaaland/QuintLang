@@ -2,6 +2,11 @@
 
 Authors : Mio Småland and Trym Sandvik
 
+To run, you need : 
+
+- Quint extension in VSCode
+- NPM
+- To run " npm i @informalsystems/quint -g "
 
 In this Bachelor thesis we have been exploring the capabilities of the Quint specification language, and translated a bit of the Hotstuff algorithm from TLA+ to Quint. 
 
